@@ -54,9 +54,7 @@ Landing page dengan animasi counter dan chart dinamis:
 ---
 
 ## 🔗 Live Demo
-🌐 **[RiskyFinance on GitHub Pages](https://riskydev24.github.io/RiskyFinance/)**  
-📦 Repository: [github.com/RiskyDev24/RiskyFinance](https://github.com/RiskyDev24/RiskyFinance)
-
+🌐 https://riskydev24.github.io/RiskyFinance-Portofolio/
 ---
 
 💬 Catatan Pengembang
